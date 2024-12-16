@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnarjunghosh04
 - 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, Excel & SQL
 - 💞️ I’m looking to collaborate on any data related or development project
 - 📫 How to reach me :linkedin.com/in/krishnarjun-ghosh-0b33ab160/
 - 😄 Pronouns: Krish-na
