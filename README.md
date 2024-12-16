@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishnarjunghosh04
+- 👋 Hi, I’m Krishnarjun Ghosh
 - 👀 I’m interested in Data Science and Data Engineering
 - 🌱 I’m currently learning Python, Excel & SQL
 - 💞️ I’m looking to collaborate on any data related or development project
