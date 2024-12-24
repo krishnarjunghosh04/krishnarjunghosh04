@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishnarjun Ghosh
-- 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning Python, Excel & SQL
+- 👀 I’m interested in Data fields, with expertise in BI tools and SQL
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any data related or development project
 - 📫 How to reach me :linkedin.com/in/krishnarjun-ghosh-0b33ab160/
 - 😄 Pronouns: Krish-na
